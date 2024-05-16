@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>test</groupId>
-    <artifactId>test</artifactId>
+    <artifactId>test1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>test</groupId>
-  <artifactId>test</artifactId>
+  <artifactId>test1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>HelloWorld</name>
   <description>HelloWorld</description>
